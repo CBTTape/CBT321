@@ -1,0 +1,34 @@
+2023-04-02 23:26:02.428283 - Initialized conversion of CBT321
+2023-04-02 23:26:02.996225 - Received CBT.V504.FILE321.PDS from FILE321.XMI 
+2023-04-02 23:26:02.998751 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:26:03.000298 - Found $$NOTE.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/$$NOTE
+2023-04-02 23:26:03.001334 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/$$NOTE01
+2023-04-02 23:26:03.002357 - Found $README.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/$README
+2023-04-02 23:26:03.003454 - Found $WHATSN.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/$WHATSN
+2023-04-02 23:26:03.004427 - Found ##README.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/##README
+2023-04-02 23:26:03.005380 - Found #PDSLOAD.jcl (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/#PDSLOAD
+2023-04-02 23:26:03.006401 - Found @FILE321.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/@FILE321
+2023-04-02 23:26:03.014497 - Found COBALOAD.xmi (application/xmit) in CBT.V504.FILE321.PDS
+2023-04-02 23:26:03.022385   - Received RECFM=U data, stored XMIT file as CBT321/COBALOAD.xmi
+2023-04-02 23:26:03.023934 - Found COBANAL.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/COBANAL
+2023-04-02 23:26:03.025063 - Found COBANALJ.jcl (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/COBANALJ
+2023-04-02 23:26:03.026344 - Found COBANALZ.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/COBANALZ
+2023-04-02 23:26:03.027723 - Found COBJCL.jcl (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/COBJCL
+2023-04-02 23:26:03.029051 - Found EXCI.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/EXCI
+2023-04-02 23:26:03.030077 - Found EXCIJCL.jcl (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/EXCIJCL
+2023-04-02 23:26:03.031098 - Found EXCIRDO.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/EXCIRDO
+2023-04-02 23:26:03.032633 - Found EXCISE.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/EXCISE
+2023-04-02 23:26:03.034370 - Found PIDTABL$.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/PIDTABL$
+2023-04-02 23:26:03.035904 - Found PIDTABLE.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/PIDTABLE
+2023-04-02 23:26:03.037640 - Found SISPEXEC.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/SISPEXEC
+2023-04-02 23:26:03.050604 - Found SISPLOAD.xmi (application/xmit) in CBT.V504.FILE321.PDS
+2023-04-02 23:26:03.062308   - Received RECFM=U data, stored XMIT file as CBT321/SISPLOAD.xmi
+2023-04-02 23:26:03.063895 - Found SISPMENU.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/SISPMENU
+2023-04-02 23:26:03.063916 - Found SISPPENU.bin containing application/octet-stream, moved to PDS/SISPPENU
+2023-04-02 23:26:03.065375 - Found SISPTENU.bin containing application/octet-stream, moved to PDS/SISPTENU
+2023-04-02 23:26:03.068017 - Found STCCHECK.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/STCCHECK
+2023-04-02 23:26:03.069246 - Found STRING.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/STRING
+2023-04-02 23:26:03.070267 - Found STRING64.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/STRING64
+2023-04-02 23:26:03.071853 - Found SYEXCIC.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/SYEXCIC
+2023-04-02 23:26:03.072888 - Found SYEXCIS.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/SYEXCIS
+2023-04-02 23:26:03.074860 - Found ZOBANALZ.txt (text/plain) in CBT.V504.FILE321.PDS, moved to PDS/ZOBANALZ
